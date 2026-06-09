@@ -39,4 +39,4 @@ A full-stack web application built with the **MERN stack** (MongoDB, Express, Re
     ```
 
 ## 📸 Preview
-*(Add a screenshot of your beautiful Glassmorphism UI here!)*
+![App Screenshot](screenshot.png)
